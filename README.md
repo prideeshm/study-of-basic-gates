@@ -1,3 +1,6 @@
+## Name:Prideesh M
+## Reg no:212223040154
+
 ### study-of-basic-gates
 
 **AIM:** 
@@ -65,14 +68,42 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
+```
+module logicsgates(a,b,y1,y2,y3,y4,y5,y6,y7);
 
+input a,b;
+
+output y1,y2,y3,y4,y5,y6,y7;
+
+and(y1,a,b);
+
+or(y2,a,b);
+
+not(y3,a);
+
+xor(y4,a,b);
+
+nand(y5,a,b);
+
+nor(y6,a,b);
+
+xnor(y7,a,b);
+
+endmodule
+```
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![ex01 de](https://github.com/prideeshm/study-of-basic-gates/assets/144870483/edb71204-2e2c-4b7f-8e04-8a5f93e2564d)
+
 
 **RTL realization Output:** 
+![Screenshot 2024-03-16 204928](https://github.com/prideeshm/study-of-basic-gates/assets/144870483/a956bea1-3deb-4d50-b5ea-879fef952341)
+
 
 **RTL**
+![Screenshot 2024-03-16 205251](https://github.com/prideeshm/study-of-basic-gates/assets/144870483/d1c9529d-fc40-4d5d-8af6-5a0a56c8ba5f)
+
 
 **Result:**
 
