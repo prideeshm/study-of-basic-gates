@@ -100,7 +100,6 @@ endmodule
 **RTL realization Output:** 
 ![Screenshot 2024-03-16 204928](https://github.com/prideeshm/study-of-basic-gates/assets/144870483/a956bea1-3deb-4d50-b5ea-879fef952341)
 
-
 **RTL**
 ![Screenshot 2024-03-16 205251](https://github.com/prideeshm/study-of-basic-gates/assets/144870483/d1c9529d-fc40-4d5d-8af6-5a0a56c8ba5f)
 
